@@ -66,6 +66,6 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'new-app-sns03'
-          slot-name: 'staging'
+          slot-name: 'staging110201'
           package: .
           
